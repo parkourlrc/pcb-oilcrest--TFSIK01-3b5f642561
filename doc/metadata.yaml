@@ -1,12 +1,10 @@
-description: High-performance wireless transceiver, ideal for remote control, data
-  links, and sensor networks.
-github_branch: ISM01A
+description: 'ThunderFly SiK radio ISM band  UAV MAVlink telemetry link.  '
+github_branch: puta-library/422199e3359900cc62c1d4ae34621d46d3e8885d
 github_branches:
 - ISM01A
-github_description: High-performance wireless transceiver, ideal for remote control,
-  data links, and sensor networks.
-github_repo: ISM01
-github_url: https://github.com/mlab-modules/ISM01
+github_description: 'ThunderFly SiK radio ISM band  UAV MAVlink telemetry link.  '
+github_repo: pcb-oilcrest--TFSIK01-3b5f642561
+github_url: https://github.com/parkourlrc/pcb-oilcrest--TFSIK01-3b5f642561
 homepage: true
 image_title: doc/gen/img/ISM01-top.png
 images:
@@ -15,10 +13,10 @@ images:
 - doc/img/ISM01A_QRcode.png
 - doc/img/ISM01A_top_big.png
 - doc/img/ISM01A_bot_big.png
-- doc/gen/img/ISM01-bottom.png
 - doc/gen/img/ISM01-top.png
-- hw/cam_profi/assembly/ISM01-assembly_page_02.svg
+- doc/gen/img/ISM01-bottom.png
 - hw/cam_profi/assembly/ISM01-assembly_page_01.svg
+- hw/cam_profi/assembly/ISM01-assembly_page_02.svg
 - doc/gen/ISM01-schematic.svg
 - doc/gen/img/ISM01-bottom.svg
 - doc/gen/img/ISM01-top.svg
@@ -27,23 +25,6 @@ mark: 80
 mod_ibom: hw/cam_profi/ISM01-ibom.html
 mod_scheme: doc/gen/ISM01-schematic.pdf
 status: 2
-tags:
-- sik
-- datalink
-- radio
-- communication
-- mavlink
-- mlab
-- mlab-module
-- kicad
-- kicad-pcb
-- kicad-project
-- mlab-kicad
-- pcb
-- ezradiopro
-- si4463
-- mlab-rf
-- siliconlabs
-- comm-rf
-title: ISM01
-updated: '2025-03-13T11:18:09.821528+00:00'
+tags: []
+title: pcb-oilcrest--TFSIK01-3b5f642561
+updated: '2026-11-26T10:04:10.669770+00:00'
